@@ -17,3 +17,4 @@ Technologie web :
 - Servlet & JSP
 - Wicket
 - Struts2
+- JSF
